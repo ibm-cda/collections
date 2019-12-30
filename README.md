@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/kabanero-io/kabanero-website/master/src/main/content/img/Kabanero_Logo_Hero.png)
 
-## Welcome to Kabanero Collections!
+## Welcome to cloned Kabanero Collections for CDA demonstration purpose!
 <https://kabanero.io>
 
 # Collections
